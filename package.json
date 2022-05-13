@@ -1,0 +1,11 @@
+{
+  "name": "cl0101-data-types",
+  "version": "1.0.0",
+  "description": "CodeLab 01-01 Data Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noe Juarez",
+  "license": "ISC"
+}
